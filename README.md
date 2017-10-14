@@ -5,4 +5,4 @@
 - [OWASP Challenge](https://gist.github.com/jaybobo/fff477e0434c8623129e6ba3628d5789)
 - [Learning VueJS](https://gist.github.com/jaybobo/a2260fbd2c2b840193438dbd92733813)
 - [SQL CTF](https://gist.github.com/jaybobo/1157fff2e7d0386f7604c7554b6df8ea)
-- Fun With Queues
+- [Fun With Queues](https://gist.github.com/jaybobo/ddbb6d46cf0549b488eff2ade1203227)
