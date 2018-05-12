@@ -7,3 +7,4 @@
 - [Learning VueJS](https://gist.github.com/jaybobo/a2260fbd2c2b840193438dbd92733813)
 - [SQL CTF](https://gist.github.com/jaybobo/1157fff2e7d0386f7604c7554b6df8ea)
 - [Fun With Queues](https://gist.github.com/jaybobo/ddbb6d46cf0549b488eff2ade1203227)
+- [Data Visualization with Highcharts, chartjs & D3](https://gist.github.com/jaybobo/06fc4b5c6e72d39d6f246e45b88a9416)
