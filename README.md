@@ -14,3 +14,4 @@ Here are just a few of the themes/topics we've covered month-to-month at Pair Co
 - [Build your first Rails API](https://github.com/paircolumbus/build-an-api)
 - [How to contribute to the open source community](https://gist.github.com/jaybobo/f38650c46f6fa5d517f1bbe0a44ed62f)
 - [Data Visualization with Highcharts, chartjs & D3](https://gist.github.com/jaybobo/06fc4b5c6e72d39d6f246e45b88a9416)
+- [nodeschool - workshoppers (javascript learning)](http://nodeschool.io)
