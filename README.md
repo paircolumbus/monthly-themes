@@ -11,7 +11,7 @@ Here are just a few of the themes/topics we've covered month-to-month at Pair Co
 - [SQL CTF: Importing and querying datasets](https://gist.github.com/jaybobo/1157fff2e7d0386f7604c7554b6df8ea)
 - [Fun With Queues: Intro to RabbitMQ](https://gist.github.com/jaybobo/ddbb6d46cf0549b488eff2ade1203227)
 - [Intro to using and consuming simple API's](https://gist.github.com/jaybobo/abfff427480d329f00f7e9aedcc29004)
-- [Build your first Rails API](https://github.com/paircolumbus/build-an-api)
+- [Build your first Rails API and learn GraphQL](https://github.com/paircolumbus/build-an-api)
 - [How to contribute to the open source community](https://gist.github.com/jaybobo/f38650c46f6fa5d517f1bbe0a44ed62f)
 - [Data Visualization with Highcharts, chartjs & D3](https://gist.github.com/jaybobo/06fc4b5c6e72d39d6f246e45b88a9416)
 - [pick and choose a workshopper - nodeschool](http://nodeschool.io)
