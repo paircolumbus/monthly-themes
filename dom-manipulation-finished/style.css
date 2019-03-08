@@ -1,0 +1,39 @@
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+nav {
+  margin-bottom: 15px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  border-bottom: 1px dotted black;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  list-style-type: none;
+  margin: 0 15px 0 0;
+  float: left;
+}
+
+section {
+  height: 50px
+  width: 400px;
+  border: 1px solid black;
+  margin: 20 auto 10 auto;
+
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+}
