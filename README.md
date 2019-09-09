@@ -1,5 +1,7 @@
 Here are just a few of the themes/topics we've covered month-to-month at Pair Columbus.
 
+#### Contact: info[at]paircolumbus[do-t]org
+
 - [Technical Interview Prep](https://github.com/paircolumbus/technical-interview-prep) - The Basics
 - [Cryptoparty](https://gist.github.com/jaybobo/7d5bf8d0f5835c5c4b57c5f73a294fb5)
 - [TDD: Test Driven Development](https://gist.github.com/jaybobo/cf45ff94da98c026f5c14f418cbb162f)
